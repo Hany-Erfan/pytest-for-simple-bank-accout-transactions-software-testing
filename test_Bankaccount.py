@@ -1,4 +1,4 @@
-from hello import Customer
+from Bankaccount import Customer
 import pytest
 
 @pytest.fixture(scope="module")
